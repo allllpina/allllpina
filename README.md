@@ -1,7 +1,6 @@
-[!image](./Cover.jpeg)
-» Black Sabbath - Loner «
-    0:50 ─〇───── 4:58
-   ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
+# AIIIPINA
+Doing stuff
+![image](./images/improvization)
 
 <!--
 **allllpina/allllpina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
