@@ -1,4 +1,4 @@
-[!image](https://github.com/allllpina/allllpina/blob/main/Cover.jpeg)
+[!image](./Cover.jpeg)
 » Black Sabbath - Loner «
     0:50 ─〇───── 4:58
    ⇄   ◃◃   ⅠⅠ   ▹▹   ↻
