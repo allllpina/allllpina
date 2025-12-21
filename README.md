@@ -1,5 +1,3 @@
-# AIIIPINA
-## Doing stuff
 ![image](./images/improvization)
 
 <!--
